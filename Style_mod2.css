@@ -32,11 +32,13 @@ h2 {
 }
 
 
-#bg {
+h1 {
  width: 900px; height: 80px;  background-color: grey;
 font: calibri;
 font-size: 40px;
 font-color: brown;
+text-align: center;
+margin-bottom: 40px;
 }
 
 p { 
