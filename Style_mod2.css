@@ -2,6 +2,9 @@ h2 {
  color: green 
 }
 
-bg {
- width: 500px; height: 500px;  background-color: blue;
+#bg {
+ width: 900px; height: 80px;  background-color: yellow;
+font: calibri;
+font-size: 40px;
+font-color: brown;
 }
